@@ -33,7 +33,7 @@ project_root/
 ```bash
 python inference.py
 ```
-To save the results with bounding boxes,
+To save the results (images) with bounding boxes,
 ```bash
 python inference.py --save_results
 ```
